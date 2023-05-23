@@ -11,6 +11,26 @@ body {
     margin: 50px auto;
 }
 
+
+
 img {
     width: 100%;
+}
+
+.guardado {
+    float: right;
+}
+
+.iconos {
+    margin: 10px;
+    padding-bottom: 5px;
+}
+
+.primerafrase{
+margin: 10px;
+}
+
+.segundafrase{
+margin: 10px;
+padding-bottom: 10px;
 }
