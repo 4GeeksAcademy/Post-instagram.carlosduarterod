@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    margin: 0;
+    width: 100%;
+}
+
+.cuerpo {
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+    width: 20%;
+    margin: 50px auto;
+}
+
+img {
+    width: 100%;
+}
