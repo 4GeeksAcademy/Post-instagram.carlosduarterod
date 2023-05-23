@@ -10,6 +10,24 @@ body {
     margin: 50px auto;
 }
 
+
+/* .encabezado {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.html2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.puntitos {
+    margin-left: auto;
+} */
+
+
 .encabezado {
     display: flex;
 }
